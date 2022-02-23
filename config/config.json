@@ -1,0 +1,20 @@
+{
+  "CONTRACT_ADDRESS": "0x81D1cFd65bc24E3D2d9C7485A542c3dE9AbA7688",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0x81D1cFd65bc24E3D2d9C7485A542c3dE9AbA7688",
+  "NETWORK": {
+    "NAME": "Rinkeby Ethereum (Testnet)",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "God's Eye",
+  "NFT_CAPTION": "Wrath and Blessings of Angels, Demons and 'the god' Gods",
+  "SYMBOL": "GEYE",
+  "NFT_OVERVIEW": "God's Eye is an epic collection of 60 eyes. These eyes represent the supernatural energy carried by Angels, Demons or 'the god' Gods. In NFTverse, there is no one god. Any supernatural energy is a God. More eyes you collect, more powerfuly and Godly do you get.",
+  "MAX_SUPPLY": 60,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea Testnets",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/gods-eye",
+  "SHOW_BACKGROUND": false
+}

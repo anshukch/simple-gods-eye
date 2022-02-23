@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/simple-gods-eye/static/css/main.61316323.chunk.css",
+    "main.js": "/simple-gods-eye/static/js/main.1c85c5f3.chunk.js",
+    "main.js.map": "/simple-gods-eye/static/js/main.1c85c5f3.chunk.js.map",
+    "runtime-main.js": "/simple-gods-eye/static/js/runtime-main.27ae1a3b.js",
+    "runtime-main.js.map": "/simple-gods-eye/static/js/runtime-main.27ae1a3b.js.map",
+    "static/js/2.567cb59a.chunk.js": "/simple-gods-eye/static/js/2.567cb59a.chunk.js",
+    "static/js/2.567cb59a.chunk.js.map": "/simple-gods-eye/static/js/2.567cb59a.chunk.js.map",
+    "static/js/3.1414eae9.chunk.js": "/simple-gods-eye/static/js/3.1414eae9.chunk.js",
+    "static/js/3.1414eae9.chunk.js.map": "/simple-gods-eye/static/js/3.1414eae9.chunk.js.map",
+    "index.html": "/simple-gods-eye/index.html",
+    "static/css/main.61316323.chunk.css.map": "/simple-gods-eye/static/css/main.61316323.chunk.css.map",
+    "static/js/2.567cb59a.chunk.js.LICENSE.txt": "/simple-gods-eye/static/js/2.567cb59a.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/simple-gods-eye/static/media/font.617a0a92.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27ae1a3b.js",
+    "static/js/2.567cb59a.chunk.js",
+    "static/css/main.61316323.chunk.css",
+    "static/js/main.1c85c5f3.chunk.js"
+  ]
+}
